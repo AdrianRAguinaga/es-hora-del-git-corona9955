@@ -6,3 +6,11 @@ C:\Users\corona9955\source\repos\RepoMapa\Optimizacion 1\bin\Debug\Optimizacion 
 C:\Users\corona9955\source\repos\RepoMapa\Optimizacion 1\bin\Debug\Optimizacion 1.pdb
 C:\Users\corona9955\source\repos\RepoMapa\Optimizacion 1\obj\Debug\Optimizacion 1.exe
 C:\Users\corona9955\source\repos\RepoMapa\Optimizacion 1\obj\Debug\Optimizacion 1.pdb
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\bin\Debug\Optimizacion 1.exe.config
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\bin\Debug\Optimizacion 1.exe
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\bin\Debug\Optimizacion 1.pdb
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\obj\Debug\Optimizacion 1.csproj.AssemblyReference.cache
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\obj\Debug\Optimizacion 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\obj\Debug\Optimizacion 1.csproj.CoreCompileInputs.cache
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\obj\Debug\Optimizacion 1.exe
+C:\Users\corona9955\Desktop\Respos\es-hora-del-git-corona9955\Optimizacion 1\obj\Debug\Optimizacion 1.pdb
